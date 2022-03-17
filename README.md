@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @SaiMonYo
-- 👀 I’m interested in, money
-- 🌱 I’m currently learning, python
-- 💞️ I’m looking to collaborate, on nothing
-- 📫 How to reach me, you dont
-
-<!---
-SaiMonYo/SaiMonYo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   _____       _                                   _ 
+  / ____|     (_)                                 | |
+ | (___   __ _ _ _ __ ___   ___  _ __  _   _  ___ | |
+  \___ \ / _` | | '_ ` _ \ / _ \| '_ \| | | |/ _ \| |
+  ____) | (_| | | | | | | | (_) | | | | |_| | (_) |_|
+ |_____/ \__,_|_|_| |_| |_|\___/|_| |_|\__, |\___/(_)
+                                        __/ |        
+                                       |___/         
